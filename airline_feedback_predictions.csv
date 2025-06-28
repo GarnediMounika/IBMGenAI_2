@@ -1,0 +1,1001 @@
+text,true_sentiment,pred_sentiment
+Such a smooth flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The baggage staff were great.,positive,positive
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a friendly flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The boarding staff were great.,positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+Such a smooth flight! The check-in staff were great.,positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a excellent flight! The crew staff were great.,positive,positive
+"The crew was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The crew staff were great.,positive,positive
+Such a smooth flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The meal staff were great.,positive,positive
+"The meal was {adj_neg}, I hated it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+Such a comfortable flight! The check-in staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The boarding staff were great.,positive,positive
+Such a comfortable flight! The baggage staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+Such a comfortable flight! The baggage staff were great.,positive,positive
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The crew staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a smooth flight! The boarding staff were great.,positive,positive
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+"The baggage was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a friendly flight! The check-in staff were great.,positive,positive
+Such a friendly flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a smooth flight! The check-in staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+Such a amazing flight! The meal staff were great.,positive,positive
+Such a amazing flight! The crew staff were great.,positive,positive
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a excellent flight! The check-in staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I hated it.",negative,negative
+"The meal was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a amazing flight! The crew staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a friendly flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a amazing flight! The crew staff were great.,positive,positive
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+Such a excellent flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+Such a smooth flight! The baggage staff were great.,positive,positive
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The baggage staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The check-in staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The check-in staff were great.,positive,positive
+"The baggage was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I hated it.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The meal staff were great.,positive,positive
+Such a comfortable flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The crew staff were great.,positive,positive
+"The meal was {adj_neg}, I disliked it.",negative,negative
+Such a smooth flight! The boarding staff were great.,positive,positive
+"The crew was {adj_neg}, I hated it.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The boarding staff were great.,positive,positive
+Such a friendly flight! The boarding staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+Such a comfortable flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+"The boarding was {adj_neg}, I hated it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+Such a friendly flight! The meal staff were great.,positive,positive
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+Such a excellent flight! The meal staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+"The meal was {adj_neg}, I hated it.",negative,negative
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The meal staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"The check-in was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a amazing flight! The baggage staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The boarding staff were great.,positive,positive
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The meal staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a smooth flight! The boarding staff were great.,positive,positive
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+Such a amazing flight! The crew staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a comfortable flight! The crew staff were great.,positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The baggage staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I hated it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a amazing flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+Such a amazing flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The baggage staff were great.,positive,positive
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The meal staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The boarding staff were great.,positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The check-in staff were great.,positive,positive
+"The meal was {adj_neg}, I hated it.",negative,negative
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+Such a amazing flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The crew was {adj_neg}, I hated it.",negative,negative
+Such a excellent flight! The meal staff were great.,positive,positive
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+Such a friendly flight! The boarding staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"The baggage was {adj_neg}, I hated it.",negative,negative
+Such a smooth flight! The meal staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The baggage was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+Such a excellent flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The check-in staff were great.,positive,positive
+Such a comfortable flight! The meal staff were great.,positive,positive
+Such a comfortable flight! The check-in staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a friendly flight! The check-in staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The meal staff were great.,positive,positive
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The check-in was {adj_neg}, I hated it.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The crew staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a smooth flight! The crew staff were great.,positive,positive
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+Such a comfortable flight! The baggage staff were great.,positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The check-in staff were great.,positive,positive
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a friendly flight! The baggage staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a friendly flight! The meal staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The crew staff were great.,positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+Such a friendly flight! The boarding staff were great.,positive,positive
+"The baggage was {adj_neg}, I hated it.",negative,negative
+Such a smooth flight! The boarding staff were great.,positive,positive
+Such a amazing flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+Such a excellent flight! The meal staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The meal was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a amazing flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The crew was {adj_neg}, I hated it.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The meal staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The meal staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a amazing flight! The check-in staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+Such a amazing flight! The meal staff were great.,positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The meal was {adj_neg}, I hated it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a excellent flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The check-in staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The baggage staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a friendly flight! The meal staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The check-in staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The boarding staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The boarding staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The boarding staff were great.,positive,positive
+Such a smooth flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a smooth flight! The boarding staff were great.,positive,positive
+Such a excellent flight! The baggage staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The boarding staff were great.,positive,positive
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The baggage was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a smooth flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a smooth flight! The baggage staff were great.,positive,positive
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I disliked it.",negative,negative
+Such a amazing flight! The boarding staff were great.,positive,positive
+Such a friendly flight! The check-in staff were great.,positive,positive
+"The crew was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"The check-in was {adj_neg}, I hated it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I hated it.",negative,negative
+Such a smooth flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The check-in staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The check-in staff were great.,positive,positive
+Such a excellent flight! The check-in staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+Such a excellent flight! The baggage staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The meal was {adj_neg}, I disliked it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The meal staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The check-in staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The meal staff were great.,positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a smooth flight! The meal staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The boarding staff were great.,positive,positive
+Such a friendly flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+Such a excellent flight! The boarding staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a excellent flight! The meal staff were great.,positive,positive
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+Such a smooth flight! The boarding staff were great.,positive,positive
+"The meal was {adj_neg}, I hated it.",negative,negative
+Such a excellent flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The boarding staff were great.,positive,positive
+Such a smooth flight! The baggage staff were great.,positive,positive
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+Such a smooth flight! The meal staff were great.,positive,positive
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a friendly flight! The crew staff were great.,positive,positive
+Such a smooth flight! The meal staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I hated it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+"The meal was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+Such a smooth flight! The crew staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The crew was {adj_neg}, I hated it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The check-in staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The boarding staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+Such a smooth flight! The baggage staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I disliked it.",negative,negative
+Such a excellent flight! The meal staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"The check-in was {adj_neg}, I hated it.",negative,negative
+"The boarding was {adj_neg}, I couldn't stand it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The boarding staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The check-in staff were great.,positive,positive
+Such a smooth flight! The meal staff were great.,positive,positive
+Such a friendly flight! The boarding staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The meal was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The crew staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I was upset about it.",negative,negative
+Such a friendly flight! The boarding staff were great.,positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a comfortable flight! The crew staff were great.,positive,positive
+Such a friendly flight! The check-in staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The meal staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a friendly flight! The meal staff were great.,positive,positive
+Such a amazing flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The baggage staff were great.,positive,positive
+"The crew was {adj_neg}, I hated it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The check-in staff were great.,positive,positive
+"Average journey, service level felt neutral.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+Such a smooth flight! The crew staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The boarding staff were great.,positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I couldn't stand it.",negative,negative
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The crew staff were great.,positive,positive
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+Such a excellent flight! The boarding staff were great.,positive,positive
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"The baggage was {adj_neg}, I couldn't stand it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a friendly flight! The crew staff were great.,positive,positive
+Such a excellent flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a amazing flight! The check-in staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"The baggage was {adj_neg}, I disliked it.",negative,negative
+Such a smooth flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+Such a amazing flight! The check-in staff were great.,positive,positive
+Such a smooth flight! The crew staff were great.,positive,positive
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+Such a friendly flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I was upset about it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+Such a excellent flight! The meal staff were great.,positive,positive
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+Such a smooth flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+Such a comfortable flight! The baggage staff were great.,positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The boarding was {adj_neg}, I hated it.",negative,negative
+Such a smooth flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+" experience with {noun_service}, truly awful.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The boarding was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a excellent flight! The boarding staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I appreciated the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The check-in was {adj_neg}, I was upset about it.",negative,negative
+"The baggage was {adj_neg}, I hated it.",negative,negative
+"The crew was {adj_neg}, I hated it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"The crew was {adj_neg}, I couldn't stand it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+Such a smooth flight! The crew staff were great.,positive,positive
+"The crew was {adj_neg}, I disliked it.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"Average journey, service level felt neutral.",neutral,neutral
+Such a comfortable flight! The boarding staff were great.,positive,positive
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
+"The meal was {adj_neg}, I disliked it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+"Average journey, service level felt neutral.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+"I liked the {noun_service}, it was {adj_pos}.",positive,positive
+Such a comfortable flight! The crew staff were great.,positive,positive
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"The meal was {adj_neg}, I was upset about it.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+" experience with {noun_service}, truly awful.",negative,negative
+Such a amazing flight! The check-in staff were great.,positive,positive
+"The baggage was {adj_neg}, I was upset about it.",negative,negative
+"The meal was {adj_neg}, I couldn't stand it.",negative,negative
+"The boarding was {adj_neg}, I disliked it.",negative,negative
+"Flight was okay, nothing special about the {noun_service}.",neutral,neutral
+"I loved the {noun_service}, it was {adj_pos}.",positive,positive
+" experience with {noun_service}, truly awful.",negative,negative
+"I enjoyed the {noun_service}, it was {adj_pos}.",positive,positive
